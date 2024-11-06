@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+.trends{
+    background-color: rgba(255, 255, 255, 10%);
+}
+
+.item{
+    background-color: rgba(255, 255, 255, 4%);
+}
